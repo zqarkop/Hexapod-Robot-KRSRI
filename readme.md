@@ -10,6 +10,6 @@ This Hexapod robot using Arduino Mega 2560 as uC to controll all input devices a
 ## Wiring Diagram
 ![ALT TEXT](images/wiring1.png)
 ![ALT TEXT](images/wiring2.png)
-![ALT TEXT](images/wiring3.png)
+![ALT TEXT](images/Wiring3.png)
 ****************************************************
 Created 2022 By Team URC
